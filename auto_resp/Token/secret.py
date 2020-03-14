@@ -1,0 +1,2 @@
+APP_ID = r'wx41889316f1d7336e'
+SECRET = r'9cbea18c36e44d71116a4c7b275d8e0f'
